@@ -3,7 +3,7 @@ import os
 
 FILE_NAME = "tasks.json"
 
-# Load tasks from file
+# Load tasks from file .
 def load_tasks():
     if os.path.exists(FILE_NAME):
         with open(FILE_NAME, "r") as file:

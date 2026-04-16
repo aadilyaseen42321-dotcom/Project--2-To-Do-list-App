@@ -1,17 +1,23 @@
 # To-Do List App (Python)
 
-A command-line To-Do List application with file storage.
+A command-line To-Do List application built using Python with JSON file storage.
 
 # Features
 - Add tasks
 - View tasks
 - Mark tasks as completed
 - Delete tasks
-- Saves tasks using JSON file
+- Persistent storage using JSON
 
-# Technologies
+# Technologies Used
 - Python
 - JSON
 
 # How to Run
-  python todo.py
+1. Clone the repository
+2. Run the following command:
+
+python todo.py
+
+# Author
+  Adil Yaseen
